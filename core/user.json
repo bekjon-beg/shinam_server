@@ -1,0 +1,9 @@
+[
+    {
+        "model" : "core.user",
+        "pk" : 1,
+        "fields" : {
+            "phone" : 999999
+        }
+    }
+]
